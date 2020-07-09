@@ -1,1 +1,1 @@
-![cat](cat.jpg)
+![cat](https://github.com/omerayyildiz/omerayyildiz/blob/master/cat.jpg)
