@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/omerayyildiz?template=classic&isocalendar=1&languages=1&pagespeed=1&followup=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul&config.animated=true)
+![Metrics](https://metrics.lecoq.io/omerayyildiz?template=classic&isocalendar=1&languages=1&followup=1&pagespeed=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul&config.animated=true)
