@@ -1,1 +1,1 @@
-![readme wallpaper](README3.png)
+![readme wallpaper](README3.jpg)
