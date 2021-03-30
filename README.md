@@ -1,1 +1,1 @@
-![readme wallpaper](nefs.png)
+![readme wallpaper](pixelart.gif)
