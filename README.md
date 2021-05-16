@@ -1,1 +1,1 @@
-![readme wallpaper](pixelart.gif)
+![readme wallpaper](lo-fi-girl.gif)
