@@ -1,1 +1,1 @@
-![readme wallpaper](lo-fi-girl.gif)
+![readme wallpaper](hades-1.jpg)
