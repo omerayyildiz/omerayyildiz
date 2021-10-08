@@ -1,1 +1,1 @@
-![readme wallpaper](albion.jpg)
+![readme wallpaper](asianbot.jpg)
