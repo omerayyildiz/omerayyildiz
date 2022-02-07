@@ -1,1 +1,1 @@
-![readme wallpaper](asianbot.jpg)
+![readme wallpaper](ipek.jpg)
