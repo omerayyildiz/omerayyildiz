@@ -1,1 +1,1 @@
-![readme wallpaper](ipek.jpg)
+![readme wallpaper](gitbanner.jpg)
